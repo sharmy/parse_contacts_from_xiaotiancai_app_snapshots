@@ -1,0 +1,2 @@
+# parse_contacts_from_xiaotiancai_app_snapshots
+批量从小天才APP联系人截图的图片中提取姓名、昵称和手机号
